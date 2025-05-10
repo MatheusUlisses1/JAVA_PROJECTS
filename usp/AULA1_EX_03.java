@@ -6,7 +6,7 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-public class EX_03
+public class AULA1_EX_03
 {
 	public static void main(String[] args) {
 		String nome1 = "Matheus";
