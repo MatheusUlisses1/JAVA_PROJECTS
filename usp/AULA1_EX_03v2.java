@@ -7,7 +7,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 import java.util.Scanner;
-public class EX_03v2
+public class AULA1_EX_03v2
 {
 	public static void main(String[] args) {
 		System.out.println("Insira dois nomes:");
