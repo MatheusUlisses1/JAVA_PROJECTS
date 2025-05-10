@@ -7,7 +7,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 import java.util.Scanner;
-public class EX_05
+public class AULA1_EX_05
 {
 	public static void main(String[] args) {
 		double abacaxi = 8.5;
