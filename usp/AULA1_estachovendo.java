@@ -7,7 +7,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 import java.util.Scanner;
-public class estachovendo
+public class AULA1_estachovendo
 {
 	public static void main(String[] args) {
 		System.out.println("Está chovendo?");
