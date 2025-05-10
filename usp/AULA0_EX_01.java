@@ -1,4 +1,4 @@
-public class EX_01 {
+public class AULA0_EX_01 {
 
     public static void main(String[] args) {
         char primeiraletra = 'M';
