@@ -1,4 +1,4 @@
-public class EX_02 {
+public class AULA0_EX_02 {
 
     public static void main(String[] args) {
         double precolar = 5.00;
