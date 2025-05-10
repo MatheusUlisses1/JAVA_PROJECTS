@@ -6,7 +6,7 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-public class EX_04
+public class AULA1_EX_04
 {
 	public static void main(String[] args) {
 		int idade1 = 15;
