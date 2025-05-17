@@ -7,10 +7,10 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 import java.util.Scanner;
-public class Main
+public class AULA_02_EX_01
 
 {
-	public static void AULA_02_EX_01(String[] args) {
+	public static void main(String[] args) {
 		System.out.println("Bem-Vindo a lanchonete");
 		System.out.println("Insira o seu saldo inicial:");
 		Scanner din = new Scanner(System.in);
