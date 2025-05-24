@@ -47,6 +47,6 @@ public class Tempo_Aluno
 		if (mais < TV5) {
 		    mais = TV5;
 		}
-		System.out.println(TV4);
+		System.out.println(mais);
 	}
 }
