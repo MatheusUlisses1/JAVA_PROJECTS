@@ -9,6 +9,5 @@ public class EX_02
 		    y++;
 		    System.out.println(x);
 		}
-		
 	}
 }
