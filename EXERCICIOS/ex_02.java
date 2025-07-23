@@ -17,8 +17,3 @@ public class ex_02{
         
     }
 }
-
-//Entrei
-//Smirking chess guy
-// kkkkkkkkkkkkkk
-// The greates technician that has ever lived
